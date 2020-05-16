@@ -1,6 +1,7 @@
 # StarbucksCapstoneChallenge
 
 [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+
 [Medium article by me](https://medium.com/@ankitgupta_/starbucks-capstone-challenge-customer-offer-success-prediction-720753d40692)
 
 ## Project Overview
